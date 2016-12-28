@@ -24,6 +24,7 @@ When you install this add-on, it will add a very simple but **dangerous** job to
         $ git clone git@github.com:biplobice/addon_remove_page_versions_job.git remove_page_versions_job
         $ cd ../
         $ ./concrete/bin/concrete5 c5:package-install remove_page_versions_job
+        ```
 2. Go to *Dashboard*, and then *Extend concrete5*
 3. Find **Remove Page Versions Job** package in the list, and install it.
 
