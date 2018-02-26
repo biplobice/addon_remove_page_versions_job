@@ -1,0 +1,21 @@
+{
+  "name": "biplob/remove_page_versions_job",
+  "description": "A concrete5 package to remove all old page versions",
+  "type": "concrete5-package",
+  "keywords" : [
+    "concrete5",
+    "addon",
+    "add-on",
+    "extension"
+  ],
+  "license": "MIT",
+  "require": {
+    "php" : ">=5.3.3"
+  },
+  "authors" : [{
+    "name" : "Biplob Hossain",
+    "homepage" : "http://about.me/biplob",
+    "role" : "Developer"
+  }
+  ]
+}
